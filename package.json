@@ -1,0 +1,9 @@
+{
+  "name": "Tic Tac Toe",
+  "version": "0.1.0",
+  "description": "A basic tic tac toe game run through the terminal",
+  "author": "Calvin Kniffin",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
